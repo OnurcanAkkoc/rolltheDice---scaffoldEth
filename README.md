@@ -1,6 +1,13 @@
-# 🏗 Scaffold-ETH
+#ROLL IT BABY!
 
-This project is based on a [youtube video](https://www.youtube.com/watch?v=lbgoxEe5vHg&t=729s)!
+> This project is based on a [youtube video](https://www.youtube.com/watch?v=lbgoxEe5vHg&t=729s)!
+
+Connect with Metamask and try your best shot! If you hit 5, you'll win!!
+[roll-it-baby](http://roll-it-baby.surge.sh/exampleui)
+
+
+
+# 🏗 Scaffold-ETH
 
 > everything you need to build on Ethereum! 🚀
 
