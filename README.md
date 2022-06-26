@@ -1,5 +1,7 @@
 # 🏗 Scaffold-ETH
 
+This project is based on a [youtube video](https://www.youtube.com/watch?v=lbgoxEe5vHg&t=729s)!
+
 > everything you need to build on Ethereum! 🚀
 
 🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
