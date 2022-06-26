@@ -2,8 +2,12 @@
 
 > This project is based on a [youtube video](https://www.youtube.com/watch?v=lbgoxEe5vHg&t=729s)!
 
-Connect with Metamask and try your best shot! If you hit 5, you'll win!!
+
 [roll-it-baby](http://roll-it-baby.surge.sh/exampleui)
+Connect with Metamask and try your best shot! 
+> Hit 5 & win the pot!!
+> Hit 4 & get a small prize!!
+> If you hit lower numbers, don't hesitate & try again! Small portion of the goes to beneficiary wallet for Scaffold-ETH!!
 
 
 
